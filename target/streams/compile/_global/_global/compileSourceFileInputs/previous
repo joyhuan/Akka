@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.1":{"hashes":[["/Users/huanqi/Downloads/akka-quickstart-scala/src/main/scala/com/example/AkkaQuickstart.scala","b063f2fe3c1b7e4df75c87443b127ed7c0569ced"]],"lastModifiedTimes":[]}}]
