@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1322d67-d9ee-4f78-b939-3bf97813c871" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/example/StreamingAndActor.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/project/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/project/plugins.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/sbt" beforeDir="false" afterPath="$PROJECT_DIR$/sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/sbt-dist/bin/sbt" beforeDir="false" afterPath="$PROJECT_DIR$/sbt-dist/bin/sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/sbt-dist/bin/sbt-launch-lib.bash" beforeDir="false" afterPath="$PROJECT_DIR$/sbt-dist/bin/sbt-launch-lib.bash" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/sbt-dist/bin/sbt-launch.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sbt-dist/bin/sbt-launch.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/sbt-dist/bin/sbt.bat" beforeDir="false" afterPath="$PROJECT_DIR$/sbt-dist/bin/sbt.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/sbt-dist/conf/sbtconfig.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sbt-dist/conf/sbtconfig.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/sbt-dist/conf/sbtopts" beforeDir="false" afterPath="$PROJECT_DIR$/sbt-dist/conf/sbtopts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/sbt.bat" beforeDir="false" afterPath="$PROJECT_DIR$/sbt.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/src/main/scala/com/example/AkkaHttp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/example/AkkaHttp.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/src/main/scala/com/example/AkkaQuickstart.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/example/AkkaQuickstart.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/src/main/scala/com/example/Marshalling.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/example/Marshalling.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/src/main/scala/com/example/Streaming.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/example/Streaming.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akka-quickstart-scala/src/test/scala/com/example/AkkaQuickstartSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/com/example/AkkaQuickstartSpec.scala" afterDir="false" />
-    </list>
+    <list default="true" id="d1322d67-d9ee-4f78-b939-3bf97813c871" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,7 +136,7 @@
       <workItem from="1584834123436" duration="946000" />
       <workItem from="1584842848126" duration="598000" />
       <workItem from="1585019608980" duration="1815000" />
-      <workItem from="1585102679902" duration="2043000" />
+      <workItem from="1585102679902" duration="2310000" />
     </task>
     <servers />
   </component>
@@ -195,22 +170,22 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="616" y="92" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.23.1440.825@0.23.1440.825" timestamp="1585102319075" />
-    <state width="817" height="209" key="GridCell.Tab.0.bottom" timestamp="1585104523212">
+    <state width="817" height="209" key="GridCell.Tab.0.bottom" timestamp="1585104949785">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="817" height="209" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1585104523212" />
-    <state width="817" height="209" key="GridCell.Tab.0.center" timestamp="1585104523209">
+    <state width="817" height="209" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1585104949785" />
+    <state width="817" height="209" key="GridCell.Tab.0.center" timestamp="1585104949783">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="817" height="209" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1585104523209" />
-    <state width="817" height="209" key="GridCell.Tab.0.left" timestamp="1585104523208">
+    <state width="817" height="209" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1585104949783" />
+    <state width="817" height="209" key="GridCell.Tab.0.left" timestamp="1585104949782">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="817" height="209" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1585104523208" />
-    <state width="817" height="209" key="GridCell.Tab.0.right" timestamp="1585104523210">
+    <state width="817" height="209" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1585104949782" />
+    <state width="817" height="209" key="GridCell.Tab.0.right" timestamp="1585104949784">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="817" height="209" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1585104523210" />
+    <state width="817" height="209" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1585104949784" />
     <state x="443" y="69" key="SettingsEditor" timestamp="1585102812720">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
@@ -223,5 +198,19 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="761" y="173" width="670" height="676" key="search.everywhere.popup/0.23.1440.826@0.23.1440.826" timestamp="1585104389122" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/com/example/StreamingAndActor.scala</url>
+          <line>48</line>
+          <properties>
+            <option name="lambda-ordinal" value="1" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
