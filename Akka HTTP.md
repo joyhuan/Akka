@@ -1,4 +1,4 @@
-# Akka Http
+# Akka HTTP
 
 ## Philosophy 
 Akka HTTP has been driven with a clear focus on providing tools for building integration layers 
@@ -34,3 +34,9 @@ your application is done separately from the route declarations, in marshallers,
 in implicitly using the “magnet” pattern. 
 This means that you can complete a request with any kind of object as long as there is an implicit 
 marshaller available in scope.
+```
+libraryDependencies += "com.typesafe.akka" %% "akka-http-spray-json" % "10.1.11"
+```
+
+## Streaming
+One of the strengths of Akka HTTP is that streaming data is at its heart meaning that both request and response bodies can be streamed through the server achieving constant memory usage even for very large requests or responses.
