@@ -27,3 +27,10 @@ sbt -Dsbt.version=0.13.15 new https://github.com/akka/akka-http-quickstart-scala
 The high-level, routing API of Akka HTTP provides a DSL to describe HTTP “routes” and how they should
 be handled. Each route is composed of one or more level of Directives that narrows down to handling 
 one specific type of request.
+
+## Marshalling 
+Transforming request and response bodies between over-the-wire formats and objects to be used in 
+your application is done separately from the route declarations, in marshallers, which are pulled 
+in implicitly using the “magnet” pattern. 
+This means that you can complete a request with any kind of object as long as there is an implicit 
+marshaller available in scope.
