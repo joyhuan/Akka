@@ -40,3 +40,27 @@ libraryDependencies += "com.typesafe.akka" %% "akka-http-spray-json" % "10.1.11"
 
 ## Streaming
 One of the strengths of Akka HTTP is that streaming data is at its heart meaning that both request and response bodies can be streamed through the server achieving constant memory usage even for very large requests or responses.
+
+One of the strengths of Akka HTTP is that streaming data is at its heart meaning that both request and response bodies can be streamed through the server achieving constant memory usage even for very large requests or responses.
+
+## Low-level HTTP server APIs 
+
+## HTTP client API 
+Adds the concept of connection pools to allow multiple requests to the same server to be handled more performantly by re-using TCP connections to the server.
+
+## The modules that make up Akka HTTP
+### akka-http
+Higher-level functionality, like (un)marshalling, (de)compression as well as a powerful DSL for defining HTTP-based APIs on the server-side, this is the recommended way to write HTTP servers with Akka HTTP.
+
+### akk-http-core
+A complete, mostly low-level, server- and client-side implementation of HTTP (incl. WebSockets)
+
+### akka-http-testkit
+A test harness and set of utilities for verifying server-side service implementations
+
+### akka-http-spray-json
+Predefined glue-code for (de)serializing custom types from/to JSON with spray-json 
+
+### akka-http-xml
+Predefined glue-code for (de)serializing custom types from/to XML with scala-xml 
+
